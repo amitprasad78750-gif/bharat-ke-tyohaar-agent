@@ -67,4 +67,7 @@ This copies the kit to /home/claude (paperkit.py, make_voice.py, tts/, paper/, c
    - the sources;
    - a reminder: "6 PM पर अपलोड करने के लिए 'upload' लिखिए। Studio में भारत के त्योहार चैनल चुना हो।"
 3. Do **not** upload to YouTube. Uploading needs the owner to pick the file on their Mac.
-4. Append one line to `history.md` (date | topic | title) and commit and push it to this repo.
+4. Save the video for later upload from any session:
+   - Copy the mp4 to `videos/YYYY-MM-DD-<slug>.mp4` in this repo.
+   - Write `videos/YYYY-MM-DD-<slug>.md` with the title, description, tags and pinned comment, exactly as sent.
+5. Append one line to `history.md` (date | topic | title), then commit and push the files with `git -c push.negotiate=true push`.
