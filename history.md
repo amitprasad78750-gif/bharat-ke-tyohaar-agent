@@ -3,3 +3,4 @@
 2026-11-13 | Somvar vrat niyam | Somvar Vrat Ke Niyam | Somvar Ko Belpatra Kyun Na Todein? Shiv Puja Vidhi #Shorts
 2026-11-13 | Devuthani Ekadashi 20 Nov | Devuthani Ekadashi 2026 Kab Hai? 20 November | Puja Vidhi, Kya Chadhayein #Shorts
 2026-11-13 | Kharna niyam (Chhath din 2, 14 Nov) | Kharna 2026 Kal Hai! 14 November | Kharna Prasad Kis Lakdi Par Banayein? Chhath Niyam #Shorts
+2026-11-13 | Gopashtami 17 Nov puja vidhi | Gopashtami 2026 Kab Hai? 17 November | Gau Mata Puja Vidhi, Kya Khilayein #Shorts
