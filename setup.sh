@@ -5,7 +5,7 @@ HERE="$(cd "$(dirname "$0")" && pwd)"
 mkdir -p /home/claude
 cp -rn "$HERE/tree/." /home/claude/
 cp "$HERE/tools/"*.py /home/claude/
-pip install --break-system-packages -q sherpa-onnx soundfile numpy pillow >/dev/null
+pip install --break-system-packages -q "sherpa-onnx==1.13.8" soundfile numpy pillow >/dev/null
 cd /home/claude/tts
 for v in priyamvada rohan pratham; do
   d="vits-piper-hi_IN-$v-medium"
