@@ -1,6 +1,6 @@
 # Daily Paper-Video Agent — भारत के त्योहार (@BharatKeTyohaar)
 
-Every day at 5:15 PM IST, a scheduled run follows this file. It makes **one** 20–25 s paper cut-out Short for the Hindi/Bihar festival-info channel and hands it to the owner by about 5:40 PM, so it can go up at 6 PM.
+Every day at about 9:52 AM IST, a scheduled run follows this file. It makes **one** 20–25 s paper cut-out Short for the Hindi festival-info channel (all-India Hindu festivals) and hands it to the owner by about 10:15 AM.
 
 ## 0. Setup (every run starts on a fresh machine)
 ```bash
@@ -10,10 +10,10 @@ This copies the kit to /home/claude (paperkit.py, make_voice.py, tts/, paper/, c
 
 ## 1. Pick today's topic (research)
 
-**Choose a topic that people will search for in the next 1–5 days.** Priority order:
-1. A festival, vrat or tithi coming in 1–5 days, e.g. "X kab hai", "puja vidhi", "samagri", "kya karein, kya na karein".
-2. A weekly vrat for tomorrow: Somvar, Mangalvar, Guruvar, Shanivar, Ekadashi, Pradosh, Purnima or Amavasya.
-3. A Bihar/UP tradition that is in season.
+**Choose an ALL-INDIA Hindu topic that people across India will search for in the next 1–5 days.** Priority order:
+1. A major Hindu festival, vrat or tithi observed nationwide coming in 1–5 days (e.g. Ekadashi, Purnima, Amavasya, Pradosh, Sankashti, Navratri, Janmashtami, Shivratri, Makar Sankranti), e.g. "X kab hai", "puja vidhi", "samagri", "kya karein, kya na karein".
+2. A weekly vrat for tomorrow: Somvar, Mangalvar, Guruvar, Shanivar.
+3. Region-only traditions (e.g. Bihar/UP-only) only if nothing national is coming up.
 
 **Research and verification:**
 - Use WebSearch/WebFetch. Hindi sources such as navbharatlive.com, prabhatkhabar.com and dekhopanchang.com work well.
