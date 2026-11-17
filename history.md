@@ -7,3 +7,4 @@
 2026-11-14 | Amla/Akshaya Navami 18 Nov puja vidhi | Amla Navami 2026 Kab Hai? 18 November | Aanwla Ped Ki Puja Kaise Karein #Shorts
 2026-11-15 | Tulsi Vivah 21 Nov samagri/niyam | Tulsi Vivah 2026 Kab Hai? 21 November | Tulsi Ke Patte Kab Todein, Puja Samagri #Shorts
 2026-11-16 | Bhishma Panchak 20–24 Nov kya karein/na karein | Bhishma Panchak 2026 Kab Se Hai? 20–24 November | 5 Din Kya Karein, Kya Na Karein #Shorts
+2026-11-17 | Ravi Pradosh Vrat 22 Nov puja vidhi/niyam | Ravi Pradosh Vrat 2026 Kab Hai? 22 November | Shiv Puja Shaam Ko Kyun? Vrat Niyam #Shorts
