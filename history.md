@@ -8,3 +8,4 @@
 2026-11-15 | Tulsi Vivah 21 Nov samagri/niyam | Tulsi Vivah 2026 Kab Hai? 21 November | Tulsi Ke Patte Kab Todein, Puja Samagri #Shorts
 2026-11-16 | Bhishma Panchak 20–24 Nov kya karein/na karein | Bhishma Panchak 2026 Kab Se Hai? 20–24 November | 5 Din Kya Karein, Kya Na Karein #Shorts
 2026-11-17 | Ravi Pradosh Vrat 22 Nov puja vidhi/niyam | Ravi Pradosh Vrat 2026 Kab Hai? 22 November | Shiv Puja Shaam Ko Kyun? Vrat Niyam #Shorts
+2026-11-18 | Vaikuntha Chaturdashi 23 Nov puja vidhi | Vaikuntha Chaturdashi 2026 Kab Hai? 23 November | Shiv Ko Tulsi, Vishnu Ko Belpatra Kyun? #Shorts
